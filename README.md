@@ -66,3 +66,12 @@ This project aims to bridge the gap between technology and agriculture by provid
 1. PlantVillage Dataset: [Link](https://www.plantvillage.org/)
 2. TensorFlow Documentation: [Link](https://www.tensorflow.org/)
 3. OpenCV Library: [Link](https://opencv.org/)
+
+
+
+## Clone Repository
+
+To clone this repository to your local machine, run the following command:
+
+```bash
+git clone https://github.com/addy-vi/Plant-Disease-Detection.git
