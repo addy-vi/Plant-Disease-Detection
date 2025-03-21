@@ -74,4 +74,4 @@ This project aims to bridge the gap between technology and agriculture by provid
 To clone this repository to your local machine, run the following command:
 
 ```bash
-git clone https://github.com/addy-vi/Plant-Disease-Detection.git
+git clone https://github.com/adnan-saif/Plant-Disease-Detection.git
